@@ -1,0 +1,24 @@
+{
+  "name": "@velozs/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/velozs/prettier-config.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "config",
+    "configuration"
+  ],
+  "bugs": {
+    "url": "https://github.com/velozs/prettier-config/issues"
+  },
+  "homepage": "https://github.com/velozs/prettier-config#readme"
+}
