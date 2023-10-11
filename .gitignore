@@ -1,0 +1,36 @@
+# Node.js
+/node_modules
+
+# Linux
+*.swp
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+AppData/
+Local/
+Temp/
+
+# IDE and text editor files
+.idea/
+.vscode/
+.history/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node.js generated files
+.npm
+node_modules/
+logs
+*.lock
